@@ -1,2 +1,2 @@
 # Movies Review Database
-A movies reviews database developed with HTML/CSS/JavaScript and Cloudant
+A movie review database developed with HTML/CSS/JavaScript and Cloudant
